@@ -1,0 +1,3 @@
+while True:
+    for x in input("Введите сосиску:"):
+        print(x*2,end='')
